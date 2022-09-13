@@ -1,3 +1,5 @@
+![](ui.png)
+
 #### About this project ####
  
 When a client has their hearing thresholds measured in a clinic, the results are plotted on a graph with sound frequency on the x-axis and dB (the lowest sound level they can hear) on the y-axis. Usually there is no additional information on the graph about how well the client can hear relative to other people, to put their hearing situation in better context.
