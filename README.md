@@ -30,7 +30,7 @@ This [guide](https://huiwen-goy.github.io/Shiny-audiogram/basic_guide_to_R_Shiny
 
 #### References used in R Shiny app ####
 
-World Health Organization. (2021). World report on hearing: Table 1.3 Grades of hearing loss and related hearing experience. 2021. [https://www.who.int/publications/i/item/9789240020481](https://www.who.int/publications/i/item/9789240020481)  
+World Health Organization. (2021). World report on hearing: Table 1.3 Grades of hearing loss and related hearing experience. [https://www.who.int/publications/i/item/9789240020481](https://www.who.int/publications/i/item/9789240020481)  
 Clark JG. (1981). Uses and abuses of hearing loss classification. ASHA 23(7):493-500. [ResearchGate](https://www.researchgate.net/publication/16145943_Uses_and_abuses_of_hearing_loss_classification)  
 Kent RD, Read C. (2002). Acoustic analysis of speech, 2nd edition. Singular/Thomson Learning.  
 International Standards Organization. (2017). ISO7029:2017 Acoustics — Statistical distribution of hearing thresholds related to age and gender. [https://www.iso.org/standard/42916.html](https://www.iso.org/standard/42916.html)  
