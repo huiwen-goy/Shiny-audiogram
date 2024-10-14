@@ -1,5 +1,5 @@
 
-## Putting hearing test results in context ##
+## Putting hearing test results in context: An interactive R Shiny app ##
 
 ![](UI.jpg)
 
